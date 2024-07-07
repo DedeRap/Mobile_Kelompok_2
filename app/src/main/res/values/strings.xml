@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Percobaan_4</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_file_upload">FileUploadActivity</string>
+    <string name="title_activity_data_entry">DataEntryActivity</string>
+    <string name="title_activity_data_screen">DataScreenActivity</string>
+    <string name="title_activity_dataset_apiactivity">DatasetAPIActivity</string>
+</resources>
